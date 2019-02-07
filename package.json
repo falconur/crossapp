@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "crossapp",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Play a sound for every keyboard key that you press",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/falconur/crossapp.git",
   "keywords": [
     "Electron",
     "quick",
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Nuriddin Kamardinov",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^4.0.3"
