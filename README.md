@@ -1,5 +1,5 @@
 # CrossApp
-### This app made for checking electron's power
+### This app was made for checking electron's power
 
 1. Clone the Quick Start repository
 
