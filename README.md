@@ -1,12 +1,17 @@
 # CrossApp
-# This app made for checking electron's power
+### This app made for checking electron's power
 
-# Clone the Quick Start repository
-git clone https://github.com/falconur/crossapp.git
-# Go into the repository
-cd crossapp
-# Install the dependencies and run
-npm install && npm start
+1. Clone the Quick Start repository
+
+    $ git clone https://github.com/falconur/crossapp.git
+
+2. Go into the repository
+
+    $ cd crossapp
+
+3. Install the dependencies and run
+
+    $ npm install && npm start
 
 
 
